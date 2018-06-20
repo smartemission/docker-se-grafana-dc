@@ -21,8 +21,8 @@ datasources:
     # <string> url for InfluxDB Data Collector One
     url: ${SE_INFLUX_DC1_URL}
     # <string> database password, if used
-    password: ${SE_INFLUX_ADMIN_PASSWORD}
+    password: ${SE_INFLUX_PASSWORD}
     # <string> database user, if used
-    user: ${SE_INFLUX_ADMIN_USER}
+    user: ${SE_INFLUX_USER}
     # <string> database name, if used
     database: airsenseur

@@ -17,9 +17,10 @@ Variable|Meaning |Example
 ---|---|--- 
 `GF_SECURITY_ADMIN_USER`|Grafana admin username|secret
 `GF_SECURITY_ADMIN_PASSWORD`|Grafana admin password|secret
+`GF_AUTH_ANONYMOUS_ENABLED`/true
 `SE_INFLUX_DC1_URL`|full URL InfluxDB endpoint for remote SE Data Collector for AirSensEUR|`http://dc1.smartemission.nl:8086`
-`SE_INFLUX_ADMIN_USER`|InfluxDB admin user name|secret
-`SE_INFLUX_ADMIN_PASSWORD`|InfluxDB admin user passwd|secret
+`SE_INFLUX_USER`|InfluxDB user name|secret
+`SE_INFLUX_PASSWORD`|InfluxDB user passwd|secret
 `GF_SERVER_ROOT_URL`|external URL Grafana Web App|`%(protocol)s://%(domain)s:%(http_port)s/grafana-dc`
 
 Other Grafana variables can be set at will according to the Grafana-scheme that follows
