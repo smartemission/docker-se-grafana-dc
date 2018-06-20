@@ -1,6 +1,6 @@
 # docker-se-grafana-dc
 
-Grafana viewer for AirSensEUR data from the InfluxDB Data Collector. Fully functional:
+Grafana viewer for AirSensEUR data from the SE InfluxDB Data Collector. Fully functional:
 Includes Datasource and Dashboard definitions. You mainly need to provide
 credential settings via Env-vars.
 
@@ -10,14 +10,13 @@ The Docker Image is hosted as: [smartemission/se-grafana-dc at DockerHub](https:
 
 ## Environment
 
-The following environment vars need to be set,  either via `docker-compose` or Kubernetes.
-
+The following environment vars need to be set, for example via `docker-compose` or Kubernetes deployments.
 
 Variable|Meaning |Example
 ---|---|--- 
 `GF_SECURITY_ADMIN_USER`|Grafana admin username|secret
 `GF_SECURITY_ADMIN_PASSWORD`|Grafana admin password|secret
-`GF_AUTH_ANONYMOUS_ENABLED`/true
+`GF_AUTH_ANONYMOUS_ENABLED`/Allow an anonymous (read-only) viewer/true
 `SE_INFLUX_DC1_URL`|full URL InfluxDB endpoint for remote SE Data Collector for AirSensEUR|`http://dc1.smartemission.nl:8086`
 `SE_INFLUX_USER`|InfluxDB user name|secret
 `SE_INFLUX_PASSWORD`|InfluxDB user passwd|secret
