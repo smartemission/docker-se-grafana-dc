@@ -257,7 +257,7 @@
       "thresholds": [],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Gasses - NO2 - NO2B43F - Evaluated",
+      "title": "Gasses - NO2 - AlphaSense NO2B43F - Evaluated",
       "tooltip": {
         "msResolution": true,
         "shared": true,
@@ -370,7 +370,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "O3_M5"
+              "value": "OX_A431"
             }
           ]
         },
@@ -409,7 +409,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "O3_M5"
+              "value": "OX_A431"
             }
           ]
         },
@@ -448,7 +448,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "O3_M5"
+              "value": "OX_A431"
             }
           ]
         },
@@ -487,7 +487,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "O3_M5"
+              "value": "OX_A431"
             }
           ]
         },
@@ -526,7 +526,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "O3_M5"
+              "value": "OX_A431"
             }
           ]
         }
@@ -534,7 +534,7 @@
       "thresholds": [],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Gasses - O3 - O3_M5 - Evaluated",
+      "title": "Gasses - O3 - AlphaSense OX_A431 - Evaluated",
       "tooltip": {
         "msResolution": true,
         "shared": true,
@@ -811,7 +811,7 @@
       "thresholds": [],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Gasses - NO - NOB4_P1 - Evaluated",
+      "title": "Gasses - NO - AlphaSense NOB4_P1 - Evaluated",
       "tooltip": {
         "msResolution": true,
         "shared": true,
@@ -924,7 +924,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "COMF200"
+              "value": "COA4"
             }
           ]
         },
@@ -963,7 +963,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "COMF200"
+              "value": "COA4"
             }
           ]
         },
@@ -1002,7 +1002,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "COMF200"
+              "value": "COA4"
             }
           ]
         },
@@ -1041,7 +1041,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "COMF200"
+              "value": "COA4"
             }
           ]
         },
@@ -1080,7 +1080,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "COMF200"
+              "value": "COA4"
             }
           ]
         }
@@ -1088,7 +1088,7 @@
       "thresholds": [],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Gasses - CO - COMF200 - Evaluated",
+      "title": "Gasses - CO - AlphaSense COA4 - Evaluated",
       "tooltip": {
         "msResolution": true,
         "shared": true,
