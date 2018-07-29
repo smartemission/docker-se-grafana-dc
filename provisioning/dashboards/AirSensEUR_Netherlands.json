@@ -647,7 +647,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "NOB4_P1"
+              "value": "NOB4"
             }
           ]
         },
@@ -686,7 +686,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "NOB4_P1"
+              "value": "NOB4"
             }
           ]
         },
@@ -725,7 +725,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "NOB4_P1"
+              "value": "NOB4"
             }
           ]
         },
@@ -764,7 +764,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "NOB4_P1"
+              "value": "NOB4"
             }
           ]
         },
@@ -803,7 +803,7 @@
             {
               "key": "name",
               "operator": "=",
-              "value": "NOB4_P1"
+              "value": "NOB4"
             }
           ]
         }
@@ -811,7 +811,7 @@
       "thresholds": [],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Gasses - NO - AlphaSense NOB4_P1 - Evaluated",
+      "title": "Gasses - NO - AlphaSense NOB4 - Evaluated",
       "tooltip": {
         "msResolution": true,
         "shared": true,
