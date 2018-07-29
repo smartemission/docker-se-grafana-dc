@@ -4315,8 +4315,8 @@
     "list": []
   },
   "time": {
-    "from": "2018-07-28T13:39:22.040Z",
-    "to": "2018-07-29T14:12:05.677Z"
+    "from": "now-30d",
+    "to": "now"
   },
   "timepicker": {
     "enable": false,
